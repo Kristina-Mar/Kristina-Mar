@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C# with Czechitas (czechitas.cz).
 - 📫 kris.martiskova@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I am quitting a senior position to try to become a programmer/developer, that's fun, rigth? 🫠💪
+- ⚡ Fun fact: I quit a senior position to try to become a programmer/developer, that's fun, rigth? 🫠💪
 
 <!---
 Kristina-Mar/Kristina-Mar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
