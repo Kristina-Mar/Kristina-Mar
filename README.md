@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Kristina-Mar
-- 👀 I’m interested in getting hired as a C# Junior Programmer/Developer in Prague 😁
 - 📫 kris.martiskova@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I quit a senior position to become a developer, that's fun, rigth? 💪
